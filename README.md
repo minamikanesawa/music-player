@@ -3,4 +3,4 @@ This is the 8th project from the course [JavaScript Web Projects: 20 Projects to
 
 View live [here](https://minamikanesawa.github.io/music-player/).
 
-![Quote Generator](music-player.png)
+![Music Player](music-player.png)
